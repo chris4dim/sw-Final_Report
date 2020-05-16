@@ -59,6 +59,9 @@ H εκπόνηση των ανωτέρω ασκήσεων πραγματοποι
 
 ## Άσκηση 4:
 
+###  Εντολή ifconfig στο raspberry pi.
+![raspberrypi](https://user-images.githubusercontent.com/44117722/80250364-58acae80-867c-11ea-89e6-abded3812622.png)
+
 ### Asciinema URL: [SSH](https://asciinema.org/a/JSp6INkklEDeIr0YVYjks97fh)
 
 
