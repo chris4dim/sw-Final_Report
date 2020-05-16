@@ -2,6 +2,8 @@
 ## ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ
 ## ΟΝΟΜΑΤΕΠΩΝΥΜΟ: ΧΡΗΣΤΟΣ ΔΗΜΑΣ
 ## Α.Μ.: Π2017204
+## ΠΡΟΣΩΠΙΚΟ ΑΠΟΘΕΤΗΡΙΟ: [link](https://github.com/chris4dim/sw/tree/2017204/projects/2017204)
+
 
 ### Σύνοψη:
 Στα πλαίσια του μαθήματος Τεχνολογία Λογισμικού πραγματοποιήθηκαν 7 ασκήσεις, πέντε από τις οποίες έγιναν κομίτ στο προσωπικό αποθετήριο στις 29 Μαρτίου και οι υπόλοιπες 2 στις 9 Απριλίου. Σε κάποιες ασκήσεις, μετά το πρώτο κομίτ, έγιναν κάποιες διορθώσεις και σε κάποιες άλλες βελτιώσεις με νέο κομίτ. Η πρώτη άσκηση είχε θέμα "try different terminals and shells", η δεύτερη "use the terminal as the IDE", η τρίτη "set-up continuous integration", η τέταρτη "set-up cloud services", η πέμπτη "send notifications to your desktop-mobile", η έκτη "performance monitoring" και η έβδομη "create a docker image for your development stack".
@@ -94,10 +96,10 @@ H εκπόνηση των ανωτέρω ασκήσεων πραγματοποι
 
 ### Asciinema URL: [docker2](https://asciinema.org/a/U72NflH9e2nJIgLfpgPXKM3VI)
 
-### Συμπεράσματα
+### Συμπεράσματα:
 
 
-### Πηγές
+### Πηγές:
 
 [fishshell](https://launchpad.net/~fish-shell/+archive/ubuntu/release-3)
 [terminals](https://linuxhint.com/best_terminal_aternatives_ubuntu/)
