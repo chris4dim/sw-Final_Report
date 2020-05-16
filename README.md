@@ -17,27 +17,128 @@ H εκπόνηση των ανωτέρω ασκήσεων πραγματοποι
 Για την εγκατάσταση του docker δες [εδώ](https://docs.docker.com/engine/install/ubuntu/).
  
 
+##  Αποτελέσματα:
+
+### Άσκηση 1:
+
+### Εικόνα του τέρμιναλ "guake".
+
+![guake](https://user-images.githubusercontent.com/44117722/77182803-02c17580-6ad6-11ea-91d3-7c7b98f7de32.png)
 
 
+### Εικόνα του τέρμιναλ "tilda".
+![tilda](https://user-images.githubusercontent.com/44117722/77183469-09042180-6ad7-11ea-96c0-6284ef2dced0.png)
 
 
+### Εικόνα του τέρμιναλ "yakuake".
+![yakuake](https://user-images.githubusercontent.com/44117722/77183870-a3fcfb80-6ad7-11ea-8182-59f7714f9e1d.png)
 
 
+### Εικόνα του τέρμιναλ "terminology".
+![terminology](https://user-images.githubusercontent.com/44117722/77184148-0d7d0a00-6ad8-11ea-808d-c4abc4beb09b.png)
 
 
+### Asciinema URL: [fishshell](https://asciinema.org/a/IrUR4IkvwMC1hxJRMEXvXD2NM)
 
 
+### Άσκηση 2:
+
+### Asciinema URL: [vim-python-mode](https://asciinema.org/a/SsS37083fyhvO3iKRHHXzX5f6)
 
 
+### Άσκηση 3:
+
+### Asciinema URL: [Mysite](https://asciinema.org/a/EvHuFeCiMfxwmdzAs2gAuV5xa)
+
+Το λίνκ του σαιτ είναι το παρακάτω:
+
+### URL: [Mysite](https://chris4dim.github.io/mysite/)
 
 
+### Άσκηση 4:
+
+### Asciinema URL: [SSH](https://asciinema.org/a/JSp6INkklEDeIr0YVYjks97fh)
 
 
+### Άσκηση 5:
 
 
+### Ειδοποίηση ότι το βίντεο κατέβηκε επιτυχώς σε 2:26 λεπτά:
+![ntfy3](https://user-images.githubusercontent.com/44117722/76169046-5ef2d400-617d-11ea-95f7-e25dab899b56.png)
+
+### Asciinema URL: [ntfy](https://asciinema.org/a/yrLNEWHwtuYB7RuSYbHD79F6Q)
+
+### Όταν κατέβηκε το αρχείο βίντεο εμφανίστηκε το μήνυμα πάνω από το τέρμιναλ.
+![Screenshot from 2020-03-08 19-50-25](https://user-images.githubusercontent.com/44117722/76168422-6c598f80-6178-11ea-92da-c9378161fe24.png)
 
 
+### Άσκηση 6:
+
+### Asciinema URL: [hyperfine](https://asciinema.org/a/t3f3iOJkpGHz6ndgB68eXXf4L)
+
+### Τα αποτελέσματα στο αρχείο output.csv
+![hyperfine](https://user-images.githubusercontent.com/44117722/80254763-6a924f80-8684-11ea-8047-17bb4a235ac8.png)
 
 
+### Άσκηση 7:
+
+### Πρώτος τρόπος: χωρίς τη δημιουργία dockerfile.
+
+### Asciinema URL: [docker](https://asciinema.org/a/x04L5lGYnvX9QZI0Jby6ACBl0)
+
+### Με τη δημιουργία "εικόνας" Apache στο docker, μπορούμε να παμε στον browser Mozila Firefox και γράφοντας localhost εμφανίζεται ότι γράψαμε στο αρχείο index.php:
+
+![Screenshot from 2020-03-02 22-22-39](https://user-images.githubusercontent.com/44117722/75714499-81e03c80-5cd4-11ea-988b-7d6d2700c3c3.png)
+
+### Δεύτερος τρόπος: με τη δημιουργία dockerfile.
+
+### Asciinema URL: [docker2](https://asciinema.org/a/U72NflH9e2nJIgLfpgPXKM3VI)
+
+### Συμπεράσματα
+
+
+### Πηγές
+
+[fishshell](https://launchpad.net/~fish-shell/+archive/ubuntu/release-3)
+[terminals](https://linuxhint.com/best_terminal_aternatives_ubuntu/)
+[vim-plug](https://github.com/junegunn/vim-plug)
+[python-mode](https://github.com/python-mode/python-mode)
+[ssh](https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-18-04/)
+[ntfy](https://github.com/dschep/ntfy)
+[Hyperfine](https://github.com/sharkdp/hyperfine)
+[docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
+[dockerhub](https://hub.docker.com/_/php)
+
+
+#   Συμμετοχικό Εκπαιδευτικό Υλικό.
+
+### mibook URL: [mibook](https://chris4dim.netlify.com/)
+
+### Αποθετήριο mibook: [link](https://github.com/chris4dim/gr)
+### A.
+
+Αρχικά, στα πλαίσια του συμμετοχικού εκπαιδευτικού υλικού ανέβασα μία εικόνα του raspberripi 3b όπως φαίνεται παρακάτω:
+
+### [raspberrypi 3b](https://chris4dim.netlify.com//gallery/raspberry-pi3b-new/)
+### Αποθετήριο κώδικα: [link](https://github.com/chris4dim/gr/blob/master/_gallery/raspberry-pi3b-new.md)
+
+H δεύτερη εικόνα που ανέβασα είναι το λειτουργικό σύστημα της apple το macOS X El Capitan όπως φαίνεται και παρακάτω:
+
+### [macOS](https://chris4dim.netlify.app/gallery/macos/)
+### Αποθετήριο κώδικα: [link](https://github.com/chris4dim/gr/blob/master/_gallery/macOS.md)
+
+### B.
+
+Στα πλαίσια του Β συμμετοχικού ανέβασα ένα διαδραστικό παράδειγμα που αφορά ένα τέρμιναλ raspberry pi, όπου ο χρήστης προσθέτει εντολές μαζί με τη λειτουργία της κάθε μία στην html και έπειτα μπορεί να κάνει εξάσκηση πάνω σε αυτές τις εντολές, όπως φαίνεται παρακάτω:
+
+### [terminal](https://chris4dim.netlify.com/remix/raspbian-terminal/)
+### Αποθετήριο κώδικα: [link](https://github.com/chris4dim/gr/blob/master/_remix/raspbian-terminal.md)
+
+### Γ.
+
+Μελέτη περίπτωσης: raspberry pi 4b
+
+### [raspberrypi4](https://chris4dim.netlify.app//case-study/rasppi4/)
+### Αποθετήριο κώδικα: [link](https://github.com/chris4dim/gr/blob/master/_case-study/rasppi4.md)
 
 
