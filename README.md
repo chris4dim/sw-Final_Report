@@ -50,9 +50,9 @@ H εκπόνηση των ανωτέρω ασκήσεων πραγματοποι
 
 ## Άσκηση 3:
 
-### Asciinema URL: [Mysite](https://asciinema.org/a/EvHuFeCiMfxwmdzAs2gAuV5xa)
+### Asciinema URL: [Github](https://asciinema.org/a/EvHuFeCiMfxwmdzAs2gAuV5xa)
 
-Το λίνκ του σαιτ είναι το παρακάτω:
+Το λίνκ του σαιτ, όπου γίνοται αλλαγές σύμφωνα με το παραπάνω demo, είναι το παρακάτω:
 
 ### URL: [Mysite](https://chris4dim.github.io/mysite/)
 
